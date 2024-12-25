@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I build things on the web and share them online.
+I build things for the web and share them online.
 
 Check out my [blog](https://wardisoulaimana.com) for more information.
