@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I build things on the web and share them online.
+
+Check out my [blog](https://wardisoulaimana.com) for more information.
